@@ -1,2 +1,1 @@
-# 
-A repository of SQL data cleaning
+# A repository of SQL data cleaning
