@@ -3,14 +3,14 @@
 -- after checking the output, export the recordset, open it in excel and save it as its own table
 
 select distinct Industry
-from usa_online_shopping_raw
+from usa_online_shopping
 order by Industry;
 
 -- this recordset can be used to observe the companies which operate within distinct industries
 -- for example, companies in the Retail industry can be seen by:
 
 select *
-from usa_online_shopping_raw
+from usa_online_shopping
 where industry = 'Retail'
 ;
 
