@@ -11,7 +11,7 @@ This task was carried out with **Excel** and **MySQL**.
    - view distinct entries (see mySQL script).
    - Replace spaces with '_' in the industries table.
    - make changes to the column names.
-   - Excel tools used:
+   - Excel operations here:
       1. find and select -> replace.
       2. text to columns.
       3. filter.
