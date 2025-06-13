@@ -1,5 +1,5 @@
 # data processing📎
-This task was carried out with **Excel** and **MySQL**.
+This exercise was completed with **Excel** and **MySQL**.
 
 ## Objective
 - Identify and remove duplicates, if any.
