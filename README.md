@@ -1,5 +1,4 @@
-# data processing📎
-This exercise was completed with **Excel** and **MySQL**.
+# 04/2025📎
 
 ## Objective
 - Identify and remove duplicates, if any.
@@ -7,11 +6,11 @@ This exercise was completed with **Excel** and **MySQL**.
 - Remove or add columns.
 
 ## Workflow
-   - Open the dataset and review for changes.
-   - view distinct entries (see mySQL script).
+   - Check the data.
+   - find distinct values.
    - Replace spaces with '_' in the industries table.
-   - make changes to the column names.
-   - Excel operations used:
+   - change the column names.
+   - in Excel:
       1. find and select -> replace.
       2. text to columns.
       3. filter.
